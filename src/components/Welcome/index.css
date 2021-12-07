@@ -1,0 +1,18 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #1e293b;
+  font-family: Bree Serif;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+}
+button {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: aliceblue;
+}
